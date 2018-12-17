@@ -13,3 +13,13 @@ resolve
 resolves
 resolved
 ```
+
+## 이슈 닫기
+
+Close #1 이슈 종료
+
+## 여러 이슈 한 번에 닫기
+
+Close #1, Close #2, Fix #3 여러 이슈 종료  
+
+Close #1, #2, #3와 같은 형태는 불가능
